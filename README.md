@@ -4,4 +4,5 @@
 # Use with this code
  
  -#import "SKUserDefault+Properties.h"
+ 
  -PPUserDefault.isNotFristUseApp = YES;
